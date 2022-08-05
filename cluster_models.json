@@ -1,12 +1,12 @@
 {
     "Cluster": [
-    	{ "model_name": "ProLiant DL325 Gen10", "catalog": true },
-	{ "model_name": "ProLiant DL360 Gen10", "catalog": false },
-	{ "model_name": "ProLiant DL380 Gen10", "catalog": true },
+    	{ "model_name": "HPE ProLiant DL325 Gen10", "catalog": true },
+	{ "model_name": "HPE ProLiant DL360 Gen10", "catalog": false },
+	{ "model_name": "HPE ProLiant DL380 Gen10", "catalog": true },
       	{ "model_name": "HPE ProLiant DL385 Gen10", "catalog": true },
-	{ "model_name": "ProLiant DL325 Gen10 Plus", "catalog": true },
-      	{ "model_name": "ProLiant DL360 Gen10 Plus", "catalog": true },
-      	{ "model_name": "ProLiant DL380 Gen10 Plus", "catalog": true },
+	{ "model_name": "HPE ProLiant DL325 Gen10 Plus", "catalog": true },
+      	{ "model_name": "HPE ProLiant DL360 Gen10 Plus", "catalog": true },
+      	{ "model_name": "HPE ProLiant DL380 Gen10 Plus", "catalog": true },
 	{ "model_name": "HPE ProLiant DL385 Gen10 Plus", "catalog": true },
 	{ "model_name": "HPE ProLiant DL325 Gen10 Plus v2", "catalog": true },
 	{ "model_name": "HPE ProLiant DL385 Gen10 Plus v2", "catalog": true },
