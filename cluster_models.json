@@ -10,8 +10,8 @@
 	{ "model_name": "HPE ProLiant DL385 Gen10 Plus", "catalog": true },
 	{ "model_name": "HPE ProLiant DL325 Gen10 Plus v2", "catalog": true },
 	{ "model_name": "HPE ProLiant DL385 Gen10 Plus v2", "catalog": true },
-      	{ "model_name": "HPE Apollo 4200 Gen10 (XL420)", "catalog": true },
-	{ "model_name": "HPE Apollo 4200 Gen10 Plus (XL420)", "catalog": true },
-	{ "model_name": "HPE Edgeline E8000/EL8000t - e910", "catalog": true }
+      	{ "model_name": "HPE Apollo 4200 Gen10 - ProLiant XL420 Gen10", "catalog": true },
+	{ "model_name": "HPE Apollo 4200 Gen10 Plus - ProLiant XL420 Gen10 Plus", "catalog": true },
+	{ "model_name": "HPE Edgeline E8000/EL8000t - ProLiant e910", "catalog": true }
     ]
   }
