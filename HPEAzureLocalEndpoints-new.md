@@ -16,8 +16,4 @@ In addition to [SBE](https://learn.microsoft.com/en-us/azure/azure-local/update/
 | 2  | SBE Manifest endpoint (secondary)   | h41380.www4.hpe.com/hpe/SBE/SBE_Discovery_HPE.xml  | 443  | Enables discovery and confirmation of validity for SBE updates from OEM.  | No                  | Deployment & Post deployment |
 | 3  | SBE Manifest redirection link (primary)     | aka.ms/AzureStackSBEUpdate/HPE                                   | 443  | Microsoft redirection to the explicit OEM SBE manifest endpoint. | No                 | Deployment & Post deployment |
 | 4  | SBE Manifest redirection link (secondary)    | aka.ms/AzureStackSBEUpdate/HPE-ProLiant-Standard                                    | 443  | Microsoft redirection to the explicit OEM SBE manifest endpoint.  | No                 | Deployment & Post deployment |
-| 5  | SBE Manifest download connector link   | h30302.www3.hpe.com/pub/                        | 443  | Enables SBE download connector support. The package and meta files of each SBE release are posted in the “h30302.www3.hpe.com/pub/” repository for download as shown in the examples below:
-•	h30302.www3.hpe.com/pub/SBE_HPE_ProLiant-Standard_5.0.2604.21.zip?merchantId=PUB_DROPBOX 
-•	h30302.www3.hpe.com/pub/SBE_HPE_ProLiant-Standard_5.0.2604.21.xml?merchantId=PUB_DROPBOX 
- | No                 | Download Connector |
-
+| 5  | SBE Manifest download connector link   | h30302.www3.hpe.com/pub/*                        | 443  | Enables SBE download connector support. The package and meta files of each SBE release are posted in the “h30302.www3.hpe.com/pub/” repository for download as shown in the examples below: •	h30302.www3.hpe.com/pub/SBE_HPE_ProLiant-Standard_5.0.2604.21.zip?merchantId=PUB_DROPBOX  •	h30302.www3.hpe.com/pub/SBE_HPE_ProLiant-Standard_5.0.2604.21.xml?merchantId=PUB_DROPBOX | No                 | Download Connector
